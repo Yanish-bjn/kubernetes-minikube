@@ -348,6 +348,8 @@ Then check in your Web browser:
 
 http://myservice.info/
 
+*Toujours lancer le tunel avant d'ouvrir le lien
+
 
 Create a second deployment and its service, then add a new route to the ingress.yml file.
 
